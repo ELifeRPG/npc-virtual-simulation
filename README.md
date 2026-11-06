@@ -43,3 +43,15 @@ Container**, or `devcontainer up --workspace-folder .` via the CLI.
 
 For the shared, project-wide documentation site (architecture across all
 ELifeRPG repos), see [ELifeRPG/docs](https://github.com/ELifeRPG/docs).
+
+## License
+
+Copyright © 2026 ELifeRPG contributors.
+
+Licensed under the [GNU Affero General Public License v3.0 or later](LICENSE)
+(`AGPL-3.0-or-later`). You may use, change and share this software. If you
+distribute it, or run a modified version for other people over a network
+(for example, a game server), you must make your complete source code
+available to those users under the same license.
+
+Contributions need a DCO sign-off; see [CONTRIBUTING.md](CONTRIBUTING.md).
